@@ -1,4 +1,4 @@
-Apache Flink -POC
+Apache Flink-POC :
 This is a basic project to learn and test Apache Flink — a framework used to process large amounts of data in real time (like streams of events).
 
 
